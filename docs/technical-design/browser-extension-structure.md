@@ -1,0 +1,1 @@
+# Placeholder for technical-design/browser-extension-structure
