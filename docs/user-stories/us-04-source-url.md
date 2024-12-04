@@ -7,7 +7,8 @@ sidebar_label: Source URL
 # US-04 Source URL
 
 ## User Story
-*As a user, I want the note to automatically include the URL of the source webpage, so I can refer back to the source when needed.*
+
+_As a user, I want the note to automatically include the URL of the source webpage, so I can refer back to the source when needed._
 
 ---
 
